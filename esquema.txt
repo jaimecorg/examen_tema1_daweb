@@ -1,1 +1,3 @@
 index.php
+principal.css
+documento.txt prueba.img
